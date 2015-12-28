@@ -1,0 +1,32 @@
+<?xml version="1.0"?><ListBirds>
+	<birds>
+		<name>Cong</name>
+		<color>nhieu mau</color>
+		<weight>4.5</weight>
+		<height>5000</height>
+	</birds>
+	<birds>
+		<name>Chim cu</name>
+		<color>xam tro</color>
+		<weight>0.5</weight>
+		<height>500</height>
+	</birds>
+	<birds>
+		<name>Sao</name>
+		<color>den</color>
+		<weight>0.2</weight>
+		<height>200</height>
+	</birds>
+	<birds>
+		<name>Chao mao</name>
+		<color>vang</color>
+		<weight>0.2</weight>
+		<height>300</height>
+	</birds>
+	<birds>
+		<name>Chim ri</name>
+		<color>xam</color>
+		<weight>0.1</weight>
+		<height>100</height>
+	</birds>
+</ListBirds>
